@@ -1,0 +1,29 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+.gray{
+	color:gray;
+}
+.bg-dange{
+	background-color:#ff1d00eb!important;
+}
+.position-1{
+	position:absolute;
+	margin-top:185px;
+	margin-left:84px;
+}
+.position-2{
+	position:absolute;
+	top:135px!important;
+	left:20.5px;
+}
+.position-3{
+	position:absolute;
+	top:120px;
+	right:20px;
+}
+.ena{
+	margin-left:125px;
+}
